@@ -1,0 +1,30 @@
+body{
+  margin-top: 0;
+  text-align: center;
+background-color: #eaffd0;
+font-family: 'Merriweather', serif;
+}
+div{
+  position: relative;
+  top: 200px;
+}
+h1{
+  margin: 0;
+font-family: 'Sacramento', cursive;
+}
+h2{
+font-family: 'Merriweather', serif
+}
+h3{
+  font-family: 'Merriweather', serif
+}
+.bottom{
+  position: absolute;
+
+}
+.upper-cloud{
+  position: relative;
+  top: 20px;
+  left: 250px;
+
+}
